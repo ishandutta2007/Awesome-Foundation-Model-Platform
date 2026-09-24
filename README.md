@@ -70,7 +70,7 @@ The table below summarizes commercial foundation model platforms. Sorted by comp
 
 Leading open-source engines and frameworks for serving, running, fine-tuning, and managing foundation models locally or on self-managed cloud infrastructure. Sorted by GitHub Stars_Count (descending):
 
-| Open-Source Project 🐙 | Stars ⭐ | Description 📝 |
+| Open-Source Project 🐙 | GitHub_Stars ⭐ | Description 📝 |
 | :--- | :--- | :--- |
 | **[ollama / ollama](https://github.com/ollama/ollama)** 🦙 | [![Stars](https://img.shields.io/github/stars/ollama/ollama?style=social&color=white)](https://github.com/ollama/ollama/stargazers) | Popular open-source tool for running and serving LLMs locally with simple CLI commands, Modelfiles, and an OpenAI-compatible API. |
 | **[huggingface / transformers](https://github.com/huggingface/transformers)** 🤗 | [![Stars](https://img.shields.io/github/stars/huggingface/transformers?style=social&color=white)](https://github.com/huggingface/transformers/stargazers) | State-of-the-art Machine Learning library for PyTorch, TensorFlow, and JAX providing APIs and tools to download and train open models. |
