@@ -68,7 +68,7 @@ The table below summarizes commercial foundation model platforms. Sorted by comp
 
 ## 🔥 Open-Source GitHub Projects
 
-Leading open-source engines and frameworks for serving, running, fine-tuning, and managing foundation models locally or on self-managed cloud infrastructure. Sorted by GitHub Star Count (descending):
+Leading open-source engines and frameworks for serving, running, fine-tuning, and managing foundation models locally or on self-managed cloud infrastructure. Sorted by GitHub Stars_Count (descending):
 
 | Open-Source Project 🐙 | Stars ⭐ | Description 📝 |
 | :--- | :--- | :--- |
